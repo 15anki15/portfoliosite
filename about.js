@@ -29,22 +29,22 @@ document.addEventListener("DOMContentLoaded", function () {
     // Placeholder educational locations
     var locations = [
         {
-            name: "University A",
-            degree: "Bachelor's Degree in Field A",
+            name: "Delhi University",
+            degree: "BSc. in Zoology",
             year: "YYYY-YYYY",
-            coords: [10.5276, 76.2144],
+            coords: [33.7570, 77.1645],
             description: `Brief description of the undergraduate experience at University A. Mention academic focus, thesis topic (if any), key learnings, or faculty guidance here.`
         },
         {
-            name: "University B",
-            degree: "Master's Degree in Field B",
+            name: "Guru Gobind Singh Indraprasth University",
+            degree: "MSc. in Environment Management",
             year: "YYYY-YYYY",
             coords: [32.7570, 77.1645],
             description: `Brief description of the master's program at University B. Highlight interdisciplinary elements, thesis or research work, major projects, and relevant faculty involvement.`
         },
         {
-            name: "University C",
-            degree: "PhD in Field C",
+            name: "IIT Bombay",
+            degree: "PhD in Climate Studies",
             year: "YYYY–Present",
             coords: [19.0760, 72.8777],
             description: `Description of the ongoing or completed doctoral research, project focus, key methodologies, and academic objectives. Include a sentence on how this fits into your long-term goals.`
