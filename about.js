@@ -31,21 +31,21 @@ document.addEventListener("DOMContentLoaded", function () {
         {
             name: "Delhi University",
             degree: "BSc. in Zoology",
-            year: "YYYY-YYYY",
-            coords: [33.7570, 77.1645],
+            year: "2014-2017",
+            coords: [30.7570, 77.1645],
             description: `Brief description of the undergraduate experience at University A. Mention academic focus, thesis topic (if any), key learnings, or faculty guidance here.`
         },
         {
             name: "Guru Gobind Singh Indraprasth University",
             degree: "MSc. in Environment Management",
-            year: "YYYY-YYYY",
-            coords: [32.7570, 77.1645],
+            year: "2017-2020",
+            coords: [30.7570, 79.1645],
             description: `Brief description of the master's program at University B. Highlight interdisciplinary elements, thesis or research work, major projects, and relevant faculty involvement.`
         },
         {
             name: "IIT Bombay",
             degree: "PhD in Climate Studies",
-            year: "YYYY–Present",
+            year: "2021–Present",
             coords: [19.0760, 72.8777],
             description: `Description of the ongoing or completed doctoral research, project focus, key methodologies, and academic objectives. Include a sentence on how this fits into your long-term goals.`
         }
